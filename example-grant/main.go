@@ -1,5 +1,7 @@
 package main
 
+import "fmt"
+
 func main() {
-	panic("unimplemented")
+	fmt.Println("Hello, World!")
 }
