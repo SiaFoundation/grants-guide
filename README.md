@@ -2,7 +2,7 @@
 
 This document outlines the repository structure and reporting requirements for
 approved grants under the Sia Foundation. A milestone is only considered
-complete when all associated tasks have been completed and been reported during
+complete when all associated tasks have been completed and have been reported during
 the monthly update using the structure outlined in this document.
 
 ## Milestones
@@ -32,16 +32,17 @@ steps outline the process for implementing your previously defined tasks:
    the repository. The pull request should contain a clear title and description
    of the changes made. If the task can't be completed fully, mention what
    difficulties were encountered and what remains to be done.
-4. If applicable, include a description of how the changes can be tested. e.g.
+4. If applicable, include a description of how the changes can be tested, e.g.
    by running a specific integration test, trying out a new feature in the UI,
    etc.
 5. Make sure the code is buildable.
 6. Merge the pull request and move on to the next task.
 
-ℹ️  As you complete tasks, make sure to also update the README files in each
-of your repositories. Reviewers should be able to understand the purpose and
+ℹ️ As you complete tasks, make sure to also update the README files in each of
+your repositories. Reviewers should be able to understand the purpose and
 functionality of your code by reading the README files as well as being able to
-run and test the code based on the instructions provided.
+run and test the code based on the instructions provided. A short example of a
+README file can be found [here](example-grant/README.md).
 
 ## Progress Reporting
 
@@ -51,12 +52,12 @@ being reported and all the associated tasks that have been completed. For each
 task, include a link to the corresponding pull request(s) that implement the
 task.
 
-The following following table outlines the expected format for reporting:
+The following table outlines the expected format for reporting:
 
-| Milestone                             | Task                                  | Pull Request(s)                                     | Additional Notes                |
-|---------------------------------------|---------------------------------------|-----------------------------------------------------|---------------------------------|
-| 1: Improve Application Output         | 1. Print "Hello, World!"              | [PR #123](https://github.com/MyOrg/MyRepo/pull/123) |                                 |
-| 1: Improve Application Output         | 2. Print "Goodbye, World!"            | [#456](https://github.com/MyOrg/MyRepo/pull/456) [#456](https://github.com/MyOrg/MyRepo/pull/789) | Took slightly longer because saying "Goodbye" is hard |
+| Milestone                             | Task                                  | Pull Request(s)                                            | Additional Notes                |
+|---------------------------------------|---------------------------------------|------------------------------------------------------------|---------------------------------|
+| 1: Improve Application Output         | 1. Print "Hello, World!"              | [#1](https://github.com/SiaFoundation/grants-guide/pull/1) |                                 |
+| 1: Improve Application Output         | 2. Print "Goodbye, World!"            | [#2](https://github.com/SiaFoundation/grants-guide/pull/2) | Took slightly longer because saying "Goodbye" is hard |
 
 ⚠️ Existing grants that were approved before the publication of this document may
 follow a different development process. In such cases, you may link to commits
