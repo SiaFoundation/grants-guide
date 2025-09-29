@@ -1,9 +1,10 @@
-# Sia Foundation Grants Guide
+# The Sia Foundation Grants Development Guide
 
 This document outlines the repository structure and reporting requirements for
-approved grants under the Sia Foundation. A milestone is only considered
-complete when all associated tasks have been completed and have been reported during
-the monthly update using the structure outlined in this document.
+approved [grants under the Sia Foundation](https://sia.tech/grants). A milestone
+is only considered complete when all associated tasks have been completed and
+have been reported during the monthly update using the structure outlined in
+this document.
 
 ## Milestones
 
@@ -12,8 +13,9 @@ approved by the Sia Foundation. Before applying for a grant, applicants should
 ensure that the milestones are **well-defined** and **achievable** within the
 proposed timeline. After the milestones are defined, they should be broken down
 into smaller, logical tasks that can be implemented in one or more small pull
-requests. These pull requests will eventually be linked in the monthly progress
-reports to determine the completion of each milestone.
+requests. These pull requests will eventually be linked in [the monthly progress
+reports](https://sia.tech/monthly-grant-report-template) to determine the
+completion of each milestone.
 
 ## Development Process
 
@@ -46,11 +48,12 @@ README file can be found [here](example-grant/README.md).
 
 ## Progress Reporting
 
-Progress on milestones should be reported monthly by providing a summary of
-tasks that have been completed. List all the milestones for which progress is
-being reported and all the associated tasks that have been completed. For each
-task, include a link to the corresponding pull request(s) that implement the
-task.
+Progress on milestones should be [reported
+monthly](https://sia.tech/grants#when-are-monthly-progress-reports-due) by
+providing a summary of tasks that have been completed. List all the milestones
+for which progress is being reported and all the associated tasks that have been
+completed. For each task, include a link to the corresponding pull request(s)
+that implement the task.
 
 The following table outlines the expected format for reporting:
 
