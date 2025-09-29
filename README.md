@@ -44,7 +44,23 @@ steps outline the process for implementing your previously defined tasks:
 your repositories. Reviewers should be able to understand the purpose and
 functionality of your code by reading the README files as well as being able to
 run and test the code based on the instructions provided. A short example of a
-README file can be found [here](example-grant/README.md).
+README file can be found [here](example-grant/README.md). The minimum
+requirements for a README file are a brief overview of the repo and its purpose
+as well as instructions on how to build the code.
+
+### Checklist
+
+The following checklist summarizes the key points of the development process:
+
+- [ ] At least one pull request per task
+- [ ] Pull requests have
+  - [ ] Clear title
+  - [ ] Clear description
+  - [ ] Testing instructions for reviewers or a note on why testing is not applicable
+- [ ] Code is buildable
+- [ ] README files contain
+  - [ ] Overview of the repository and its purpose
+  - [ ] Instructions on how to build and run the code
 
 ## Progress Reporting
 
