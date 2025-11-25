@@ -11,9 +11,10 @@ this document.
 Each grant will have a set of milestones defined in the grant proposal and
 approved by the Sia Foundation. Before applying for a grant, applicants should
 ensure that the milestones are **well-defined** and **achievable** within the
-proposed timeline. After the milestones are defined, they should be broken down
-into smaller, logical tasks that can be implemented in one or more small pull
-requests. These pull requests will eventually be linked in [the monthly progress
+proposed timeline. After the milestones are defined following a monthly format,
+they should be broken down into smaller, logical tasks that can be implemented
+in one or more small pull requests. These pull requests will eventually be
+linked in [the monthly progress
 reports](https://sia.tech/monthly-grant-report-template) to determine the
 completion of each milestone.
 
@@ -66,10 +67,9 @@ The following checklist summarizes the key points of the development process:
 
 Progress on milestones should be [reported
 monthly](https://sia.tech/grants#when-are-monthly-progress-reports-due) by
-providing a summary of tasks that have been completed. List all the milestones
-for which progress is being reported and all the associated tasks that have been
-completed. For each task, include a link to the corresponding pull request(s)
-that implement the task.
+providing a summary of tasks that have been completed. List all the associated
+tasks that have been completed for this month's milestone. For each task,
+include a link to the corresponding pull request(s) that implement the task.
 
 The following table outlines the expected format for reporting:
 
